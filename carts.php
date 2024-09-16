@@ -12,11 +12,6 @@
 <style>
         
 
-        .section_account_admin h3 {
-            margin-top: 0;
-            text-align: center;
-            color: #333;
-        }
 
         .welcome-msg {
             display: block;
