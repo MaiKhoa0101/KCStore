@@ -10,6 +10,16 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <style>
+<<<<<<< HEAD
+=======
+        /* khoa depzai */
+        .section_account_admin h3 {
+            margin-top: 0;
+            text-align: center;
+            color: #333;
+        }
+
+>>>>>>> a18753c32f48c1cfe8ef75a1012cd440a314f6a8
         .welcome-msg {
             display: block;
             text-align: center;
